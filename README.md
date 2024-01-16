@@ -1,11 +1,3 @@
-<h1 align="center">About Me</h1>
-
-###
-
-<h3 align="left">Current Project 💻: Word Counter on Coding Challenges</h3>
-
-###
-
 <h1 align="center">I am learning to code in:</h1>
 
 ###
@@ -15,5 +7,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
 </div>
+
+###
+
+<h3 align="center">Current Project 💻: Word Counter on Coding Challenges</h3>
 
 ###
