@@ -1,12 +1,12 @@
-<h2 align="center">About Me</h2>
+<h1 align="center">About Me</h1>
 
 ###
 
-<p align="left">Current Project 💻: Word Counter on Coding Challenges</p>
+<h3 align="left">Current Project 💻: Word Counter on Coding Challenges</h3>
 
 ###
 
-<h2 align="center">I am learning to code in:</h2>
+<h1 align="center">I am learning to code in:</h1>
 
 ###
 
