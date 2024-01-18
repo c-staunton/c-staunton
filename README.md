@@ -1,15 +1,23 @@
-<h1 align="center">I am learning to code in:</h1>
+<h3 align="center">What I am learning:</h3>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
 </div>
 
 ###
 
-<h3 align="center">Current Project 💻: Word Counter on Coding Challenges</h3>
+<h3 align="center">Tools🔧:</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<p align="center">Current Project 💻: Word Counter on Coding Challenges</p>
 
 ###
