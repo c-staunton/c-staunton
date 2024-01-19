@@ -24,7 +24,7 @@
 
 
 <p align="center" >
-    <a href="LINK TO: WHEN CLICKED">
+    <a href="https://www.codewars.com/users/c-staunton/stats">
       <img src="https://github.r2v.ch/codewars?user=c-staunton&name=true&stroke=%23BB432C&theme=gradient&hide_clan=true" />
     </a>
 </p>
