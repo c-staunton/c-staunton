@@ -1,4 +1,4 @@
-<h3 align="center">What I am learning:</h3>
+<h2 align="center">What I am learning:</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Tools🔧:</h3>
+<h2 align="center">Tools🔧:</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">Current Project 💻: Word Counter on Coding Challenges</p>
+<h3 align="center">Current Project 💻: Word Counter on Coding Challenges</h3>
 
 ###
 
