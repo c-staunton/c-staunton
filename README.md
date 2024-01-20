@@ -25,6 +25,8 @@
 
 <p align="center" >
     <a href="https://www.codewars.com/users/c-staunton/stats">
-      <img src="https://github.r2v.ch/codewars?user=c-staunton&name=true&stroke=%23BB432C&theme=gradient&hide_clan=true" />
+      <img src="https://www.codewars.com/users/c-staunton/badges/large" />
     </a>
 </p>
+
+
