@@ -18,7 +18,8 @@
 
 ###
 
-<h3 align="center">Current Project 💻: Word Counter on Coding Challenges</h3>
+<h3 align="center">Current Projects 💻:</h3>
+<h4 align="center">Word Counter on Coding Challenges (Python) <br> Slot Machine (Python)</h4>
 
 ###
 
