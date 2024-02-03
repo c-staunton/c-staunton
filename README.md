@@ -18,8 +18,7 @@
 
 ###
 
-<h3 align="center">Current Projects 💻:</h3>
-<h4 align="center">Word Counter on Coding Challenges (Python)</h4><h4 align="center">Python Typing Test</h4>
+<h3 align="center">Current Project 💻: Python Typing Test</h3>
 
 ###
 
