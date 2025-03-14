@@ -1,6 +1,6 @@
-![c-staunton's Stats](https://github-readme-stats.vercel.app/api?username=c-staunton&theme=dark&show_icons=true&hide_border=false&count_private=true) ![c-staunton's Streak](https://github-readme-streak-stats.herokuapp.com/?user=c-staunton&theme=dark&hide_border=false)
+![c-staunton's Streak](https://github-readme-streak-stats.herokuapp.com/?user=c-staunton&theme=dark&hide_border=false) <img src="https://komarev.com/ghpvc/?username=c-staunton&label=Profile%20views&color=0e75b6&style=flat" alt="c-staunton" align="right"/>
 
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=c-staunton&label=Profile%20views&color=0e75b6&style=flat" alt="c-staunton"/> </p>
+
 
 <!--
 **c-staunton/c-staunton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
